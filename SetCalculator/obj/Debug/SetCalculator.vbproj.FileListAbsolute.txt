@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\bin\Debug\SetCalculator.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\bin\Debug\SetCalculator.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\bin\Debug\SetCalculator.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\bin\Debug\SetCalculator.xml
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\obj\Debug\SetCalculator.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\obj\Debug\SetCalculator.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\obj\Debug\SetCalculator.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\obj\Debug\SetCalculator.xml
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\obj\Debug\SetCalculator.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\obj\Debug\SetCalculator.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\SetCalculator\SetCalculator\obj\Debug\SetCalculator.vbprojResolveAssemblyReference.cache
